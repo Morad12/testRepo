@@ -12,6 +12,8 @@ import com.hibernate.entities.Artikel;
 import com.hibernate.repo.dao.AbteilungRepo;
 import com.hibernate.repo.dao.ArtikelRepo;
 
+/**************** My first change !! **********************/
+
 @SpringBootApplication
 public class HibernateApplication {
 
