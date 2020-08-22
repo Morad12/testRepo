@@ -12,7 +12,7 @@ import com.hibernate.entities.Artikel;
 import com.hibernate.repo.dao.AbteilungRepo;
 import com.hibernate.repo.dao.ArtikelRepo;
 
-/****************ok get u !! vor erste !! My first change !!  and now the second change !! ok habe ich gesehen **********************/
+/****************block !ok get u !! vor erste !! My first change !!  and now the second change !! ok habe ich gesehen **********************/
 
 @SpringBootApplication
 public class HibernateApplication {
