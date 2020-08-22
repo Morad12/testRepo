@@ -12,7 +12,7 @@ import com.hibernate.entities.Artikel;
 import com.hibernate.repo.dao.AbteilungRepo;
 import com.hibernate.repo.dao.ArtikelRepo;
 
-/**************** My first change !! **********************/
+/**************** My first change !!  and now the second change **********************/
 
 @SpringBootApplication
 public class HibernateApplication {
