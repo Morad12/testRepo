@@ -4,6 +4,8 @@ import java.util.List;
 
 import com.hibernate.entities.*;
 
+/*other file! opps*/
+
 public interface ArtikelDaoInt{
 
 	public Artikel save(Artikel art);

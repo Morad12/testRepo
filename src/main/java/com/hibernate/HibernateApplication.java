@@ -14,7 +14,7 @@ import com.hibernate.repo.dao.ArtikelRepo;
 
 
 
-/****************neu test ! ist das ein conflit ? verstanden alles klar ! ok get u !! vor erste !! My first change !!  and now the second change !! ok habe ich gesehen **********************/
+/****************opsss ! lolo Diff ? neu test ! ist das ein conflit ? verstanden alles klar ! ok get u !! vor erste !! My first change !!  and now the second change !! ok habe ich gesehen **********************/
 
 
 
