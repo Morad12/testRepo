@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.hibernate.entities.*;
 
-/*other file! opps*/
+/*new but last ! other file! opps*/
 
 public interface ArtikelDaoInt{
 
