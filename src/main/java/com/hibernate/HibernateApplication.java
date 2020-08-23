@@ -13,7 +13,7 @@ import com.hibernate.repo.dao.AbteilungRepo;
 import com.hibernate.repo.dao.ArtikelRepo;
 
 
-/****************verstanden alles klar ! ok get u !! vor erste !! My first change !!  and now the second change !! ok habe ich gesehen **********************/
+/****************neu test ! verstanden alles klar ! ok get u !! vor erste !! My first change !!  and now the second change !! ok habe ich gesehen **********************/
 
 @SpringBootApplication
 public class HibernateApplication {
